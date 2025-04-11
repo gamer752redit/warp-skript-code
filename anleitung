@@ -1,0 +1,17 @@
+1. lade dir das skript runter
+    - das skript findest du auch hier im github
+
+2. lade dir das plugin "Skript" herunter
+    - https://www.spigotmc.org/resources/skript.114544/
+
+3. starte deinen server
+
+4. zihe das heruntergeladene skript (join skript.sk) in das plugin
+    -plugins > Skript > scripts > monster warp.sk
+
+5. reloade dein Skript damit du direkt loslegen kannst!
+    - /skript reload monster warp.sk
+
+6. nutze /setwarp <name> oder /warp <name>
+
+   ⚠️ BITTE GEBE DAS SKRIPT NICHT ALS DEINS AUS ⚠️
