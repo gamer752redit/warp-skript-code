@@ -1,0 +1,9 @@
+command /setwarp <text>:
+    permission: op
+    trigger:
+        set {warps::%arg-1%} to player's location
+        send "&aWarp &e%arg-1% &agesetzt!"
+
+command /warp <text>:
+    trigger:
+        teleport player to {warps::%arg-1%}
